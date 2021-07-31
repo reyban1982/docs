@@ -12,7 +12,7 @@ versions:
   ghae: '*'
 topics:
   - Community
-children:
+children:i
   - /about-community-management-and-moderation
   - /about-community-profiles-for-public-repositories
   - /accessing-a-projects-community-profile
